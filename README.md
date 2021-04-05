@@ -1,6 +1,6 @@
 ## 캠핑장 예약 관리 모바일 앱 개발 프로젝트
 
-2021년 2학기 SW-Engineering
+2021년 1학기 SW-Engineering
 
 구성원
 
